@@ -39,34 +39,18 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 *(Edite este arquivo e escreva suas respostas dos Passos 3 e 4 aqui embaixo. Lembre-se de colocar a imagem do Passo 2 dentro da pasta **/imagens** deste repositório)*
 
-## 1. Evidência Visual (Screenshot)
-*Suba o screenshot da sua solução final (onde aparece "Você resolveu este nível!") para a pasta **/imagens** deste repositório e coloque o link da imagem abaixo.*
+## 2. Evidência Visual (Screenshot)
+*Suba o screenshot da sua solução final (onde aparece "Você resolveu este nível!") para a pasta **/imagens** deste repositório.*
 
-**Resposta do Passo 3 (Minha Estratégia):**
-> Escreva aqui...
-
-
-**Resposta do Passo 4 (Desafio):**
-* **A)** Escreva aqui...
-* **B)** Escreva aqui...
-* **C)** Escreva aqui...
-
-
-
-
-**(Substitua este texto e o link abaixo pela sua imagem)**
-![Minha Solução](https://via.placeholder.com/600x300?text=Cole+Sua+Imagem+Aqui)
-
----
-
-## 2. Estratégia Utilizada
+## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
+> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
 
-**Minha Explicação:**
-> [Escreva sua explicação aqui. Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...]
+## 4. Desafio:
+**A)** Escreva aqui...
+  
+**B)** Escreva aqui...
+  
+**C)** Escreva aqui...
 
 ---
-
-## 3. Desafio:
-**Qual a principal diferença visual que você notou entre os blocos e o código escrito em linguagem de programação?**
-> [Sua resposta aqui]
