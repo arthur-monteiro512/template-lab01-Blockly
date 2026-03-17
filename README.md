@@ -17,16 +17,16 @@ Acesse o jogo da Tartaruga no [Blockly Games](https://blockly.games/turtle) e co
 
 **Passo 2: Registre sua Solução**
 
-Tire um screenshot (captura de tela) da sua solução final (mostrando os blocos que você usou para passar do nível 10). Faça o upload (envio) dessa imagem **dentro da pasta /imagens** que já existe neste repositório.
+Tire um screenshot (captura de tela) da sua solução final (mostrando os blocos que você usou para passar do nível 9). Faça o upload (envio) dessa imagem **dentro da pasta /imagens** que já existe neste repositório.
 
 **Passo 3: Explique sua Estratégia**
 
-Escreva um pequeno texto explicando qual foi a sua linha de raciocínio e a estratégia que você usou para resolver o nível 10.
+Escreva um pequeno texto explicando qual foi a sua linha de raciocínio e a estratégia que você usou para resolver o nível 9.
 *(Exemplo: "Criei uma função para desenhar uma estrela, depois usei um loop para repetir essa função 3 vezes girando 120 graus.")*
 
 **Passo 4: Pergunta Desafio**
 
-Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine que o problema mudou. A sua nova missão agora é desenhar um **hexágono regular** (uma figura geométrica de 6 lados iguais) e repetir esse hexágono **4 vezes**, formando um padrão circular (como as pétalas de uma flor).
+Olhando para os blocos que você usou para resolver o jogo no nível 9, imagine que o problema mudou. A sua nova missão agora é desenhar um **hexágono regular** (uma figura geométrica de 6 lados iguais) e repetir esse hexágono **4 vezes**, formando um padrão circular (como as pétalas de uma flor).
 
 **Sem precisar montar os blocos** no jogo, responda por escrito:
 * **A)** Quantas repetições o seu loop principal (que desenha o hexágono) precisaria ter e qual seria o ângulo (em graus) que a tartaruga deve virar a cada linha desenhada?
