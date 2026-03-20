@@ -2,8 +2,8 @@
 
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
-**Nome do Aluno:** [Preencha seu nome aqui]
-**Matrícula:** [Preencha sua matrícula]
+**Nome do Aluno:** Arthur Monteiro Pereira
+**Matrícula:** 20261100046
 ---
 
 ## 🎯 Objetivo
@@ -40,17 +40,16 @@ Olhando para os blocos que você usou para resolver o jogo no nível 9, imagine 
 *(Edite este arquivo e escreva suas respostas dos Passos 3 e 4 aqui embaixo. Lembre-se de colocar a imagem do Passo 2 dentro da pasta **/imagens** deste repositório)*
 
 ## 2. Evidência Visual (Screenshot)
-*Suba o screenshot da sua solução final (onde aparece "Você resolveu este nível!") para a pasta **/imagens** deste repositório.*
+*Pronto
 
 ## 3. Estratégia Utilizada
-*Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+*Usei um código que repete 3 vezes um código para gerar a estrela (que cria 5 linha em um angulo de 144º e que se move para a ponta da próxima estrela a ser desenhada), centralizei a tartaruga no centro da Lua, criei um grande círculo branco (indo e voltando criando linhas em um ângulo de 1º 360 vezes) e movi a tartaruga para a diagonal direita superior para criar um círculo preto, fazendo com que ele obstruisse parte do círculo branco e fazendo eles formarem uma Lua.
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+**A)** O loop que desenha o hexágono precisaria repetir 6 vezes um comando que cria uma linha e move a tartaruga a 60º para desenhar a próxima linha do hexágono
   
-**B)** Escreva aqui...
+**B)** 90º
   
-**C)** Escreva aqui...
+**C)** Para descobrir o ângulo para desenhar o hexágono, basta considerar que os angulos internos de uma forma (exceto o triângulo) somados dão 360º, como um hexagono tem 6 lados, basta dividir o angulo interno total pelos lados para descobrir o angulo de cada linha. Depois, sabendo que formar 4 hexagonos juntos como pétalas formaria um quadrado no meio, bastou fazer o mesmo para fazer a base do próximo hexágono ficasse posicionada perfeitamente para unir os hexagonos da forma pedida.
 
 ---
